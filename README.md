@@ -1,2 +1,3 @@
-# projetinhos-2022
-Projetos feitos por mim no segundo semestre de 2022.
+# projetinhos
+Projetos feitos por Marcelo Alexandre Alves de Paula Silva, no Q4 de 2022.
+
